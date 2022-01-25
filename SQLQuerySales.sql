@@ -20,7 +20,7 @@ SELECT [Region]
 
 --Null Values
 
- select * from [Portfolio].[dbo].['10000_Sales_Modified'] order by 3,4
+ select * from [Portfolio].[dbo].['10000_Sales_Modified'] order by 13,14
 
 --Handling Duplicets 
 
